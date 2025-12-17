@@ -42,7 +42,7 @@ workspace/
 Thumbs.db
 
 # Config (contains API keys)
-config.yaml
+# config.yaml
 
 # test file
 demo.py
